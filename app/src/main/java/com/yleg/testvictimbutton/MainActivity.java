@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private Button startButton, clipButton, resetButton;
     private  TextView hinttext, textnum;
     private int level,depth;
-    private int maxlevel  = 6;
+    private int maxlevel  = 5;
     MyDatabaseHelper db;
     private int count = 0;
     int LAUNCH_SECOND_ACTIVITY = 0;
